@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/lab01/esercizio 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/lab01/esercizio 5/cmake-build-debug/CMakeFiles/esercizio_5.dir
+C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/lab01/esercizio 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+ Partenza    Destinazione  Costo
+  Parigi        New York   100
+   Roma          Londra    700
+  Sidney     Los Angeles   22
+ POOOOOOOOOrroccooo diddoo
+ ssuuccaaaa.... //sdhjdfaj AHAHAHHAA
+
+Ad esempio, la sequenza di caratteri “il numero 100000 e’ grande”, viene compressa in “il numero 100000 è grande”. La sequenza, “ci sono 15 = ripetuti: ============= e 4 punti….” viene ricodificata in: “ci sono 15 = ripetuti: ============= e 4 punti...”
+
+ 

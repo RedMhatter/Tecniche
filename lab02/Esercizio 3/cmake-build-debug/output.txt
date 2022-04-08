@@ -1,0 +1,10 @@
+ Partenza $4Destinazione $2Costo
+  Parigi $8New York $3100
+ $3Roma $9 Londra $4700
+  Sidney $5Los Angeles $32$2
+ PO$9rroc$2o$3 diddoo
+ ssu$2cca$4.$4 //sdhjdfaj AHAHAH$2AA
+
+Ad esempio, la sequenza di caratteri “il numero 10$5 e’ grande”, viene compressa in “il numero 10$5 è grande”. La sequenza, “ci sono 15 = ripetuti: =$9=$4 e 4 punti….” viene ricodificata in: “ci sono 15 = ripetuti: =$9=$4 e 4 punti.$3”
+
+ 
