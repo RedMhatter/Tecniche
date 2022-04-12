@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Rosario/Desktop/C$ Uni/lab05/Esercizio$ 1/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Admin/Desktop/Uni/Primo$ Anno/Tecniche/lab05/E01/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Esercizio_1
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/Rosario/Desktop/C$ Uni/lab05/Esercizio$ 1/cmake-
 
 build cmake_object_order_depends_target_Esercizio_1: phony || CMakeFiles/Esercizio_1.dir
 
-build CMakeFiles/Esercizio_1.dir/main.c.obj: C_COMPILER__Esercizio_1_Debug C$:/Users/Rosario/Desktop/C$ Uni/lab05/Esercizio$ 1/main.c || cmake_object_order_depends_target_Esercizio_1
+build CMakeFiles/Esercizio_1.dir/main.c.obj: C_COMPILER__Esercizio_1_Debug C$:/Users/Admin/Desktop/Uni/Primo$ Anno/Tecniche/lab05/E01/main.c || cmake_object_order_depends_target_Esercizio_1
   DEP_FILE = CMakeFiles\Esercizio_1.dir\main.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Esercizio_1.dir
@@ -81,7 +81,7 @@ build Esercizio_1.exe: C_EXECUTABLE_LINKER__Esercizio_1_Debug CMakeFiles/Eserciz
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Rosario\Desktop\C Uni\lab05\Esercizio 1\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Admin\Desktop\Uni\Primo Anno\Tecniche\lab05\E01\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Rosario\Desktop\C Uni\lab05\Esercizio 1\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Rosario\Desktop\C Uni\lab05\Esercizio 1" -B"C:\Users\Rosario\Desktop\C Uni\lab05\Esercizio 1\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Admin\Desktop\Uni\Primo Anno\Tecniche\lab05\E01\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Admin\Desktop\Uni\Primo Anno\Tecniche\lab05\E01" -B"C:\Users\Admin\Desktop\Uni\Primo Anno\Tecniche\lab05\E01\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build Esercizio_1: phony Esercizio_1.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Rosario/Desktop/C Uni/lab05/Esercizio 1/cmake-build-debug
+# Folder: C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/lab05/E01/cmake-build-debug
 
 build all: phony Esercizio_1.exe
 
