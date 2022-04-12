@@ -1,3 +1,0 @@
-C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/cazzi/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/cazzi/cmake-build-debug/CMakeFiles/cazzi.dir
-C:/Users/Admin/Desktop/Uni/Primo Anno/Tecniche/cazzi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
