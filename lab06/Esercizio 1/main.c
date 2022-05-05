@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define MAXL 30
+#define MAXL 30 + 1
 #define MAX 1000
 
 typedef struct {
