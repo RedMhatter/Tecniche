@@ -3,7 +3,7 @@
 #define MAXN 50
 
 int leggiMatrice(int map[][MAXN], int *nr, int *nc);
-bool riconosciRegione(int map[][MAXN],int nr,int nc,int r,int c,int *b,int *h);
+bool riconosciRegione(int map[][MAXN], int nr, int nc, int r, int c, int *b, int *h);
 
 typedef struct{
     int base;
@@ -71,7 +71,7 @@ int leggiMatrice(int map[][MAXN], int *nr, int *nc)
     fclose(fin);
 }
 
-bool riconosciRegione(int map[][MAXN],int nr, int nc, int r, int c, int *b, int *h)
+bool riconosciRegione(int map[][MAXN], int nr, int nc, int r, int c, int *b, int *h)
 {
     *b = *h = 0;
     int k, m;
